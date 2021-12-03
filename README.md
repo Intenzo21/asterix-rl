@@ -1,2 +1,2 @@
 # Applied_AI
- A repository fro group 10 for Assessment 1 of the course Applied AI (CS5079)
+ A repository of Group 10 for CS5079 Applied AI Assessment 1.
